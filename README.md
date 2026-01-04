@@ -7,7 +7,7 @@ The objective is to identify high-quality, undervalued companies using a rigorou
 
 ## 📈 Performance (Backtest)
 * **Period:** 01.06.2006 – 01.12.2025
-* **CAGR:** **21.77%**
+* **CAGR:** **22.07%**
 * **Strategy:** Long-only equity selection based on the proprietary scoring model detailed below.
 * *📂 See folder `1_Scrab_Strategy_Backtest` for detailed equity curves and drawdown metrics.*
 
